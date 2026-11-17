@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+secure_demo.db
+.venv/
